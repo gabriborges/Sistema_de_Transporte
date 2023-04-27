@@ -1,3 +1,9 @@
+###########################################
+# DUPLA:
+# -- GABRIEL BORGES CARVALHO
+# -- JOÃO MARCELO DINZ MENDES DA SILVA
+###########################################
+
 import os
 import programa_principal as principal
 from classes import Empresa, Veiculo, Motorista, Viagem
